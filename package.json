@@ -12,6 +12,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/upalmin/nodejs-hello-world.git"
+    "url": "https://github.com/upalmin/nodejs-hello-world/blob/main/helloworld.js"
   }
 }
